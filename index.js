@@ -24,7 +24,7 @@ function createBot() {
 
   botInstance = bot;
 
-  const operatorUsernames = ['.A1111318', 'A1111318'];
+  const operatorUsernames = ['.A1111318', 'A1111318', 'AK_JOD'];
   const respectedMessages = [
     "Warning: Akshath's presence may cause sudden intelligence spikes.",
     "The server's coolness level just hit max — thanks to Akshath.",
