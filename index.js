@@ -16,7 +16,7 @@ function createBot() {
   reconnecting = false;
 
   const bot = mineflayer.createBot({
-    host: 'ptrsmptest.aternos.me',
+    host: 'puttursmp.aternos.me',
     port: 49030,
     username: baseUsername,
     version: '1.16.5',
@@ -24,7 +24,7 @@ function createBot() {
 
   botInstance = bot;
 
-  const operatorUsernames = ['.A1111318', 'A1111318'];
+  const operatorUsernames = ['.A1318', 'A1318'];
   const respectedMessages = [
     "Warning: Akshath's presence may cause sudden intelligence spikes.",
     "The server's coolness level just hit max — thanks to Akshath.",
